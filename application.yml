@@ -1,5 +1,5 @@
-spring:
-   port: 8191
+# spring:
+#    port: 8191
 
 # spring:
 #  cloud:
